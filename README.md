@@ -48,6 +48,6 @@ I enjoy building data-driven applications, exploring machine learning, and trans
 ### 🤝 Let's Connect
 
 - GitHub: https://github.com/jaffarsaadiq-dev
-- LinkedIn: Add your LinkedIn profile URL here
+- LinkedIn:https://www.linkedin.com/in/mohammed-jaffar-saadiq
 
 *Always learning, building, and improving.*
